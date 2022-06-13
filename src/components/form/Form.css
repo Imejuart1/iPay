@@ -1,8 +1,8 @@
 #form{
     display: flex;
-    margin-left: 35%;
-    margin-top: -15%;
-    margin-bottom: 10%;
+    position: relative;
+    top: 50%;
+    left: 40%;
     font-family:'Times New Roman', Times, serif;
    
     
