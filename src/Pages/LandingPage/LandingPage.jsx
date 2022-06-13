@@ -1,5 +1,5 @@
 import React from 'react'
-import Timer from '../../Components/Timer/Timer'
+import Timer from '../../Components/Timer/timer'
 import Form from '../../Components/form/form'
 import Footer from '../../Components/footer/Footer'
 import './LandingPage.css'
