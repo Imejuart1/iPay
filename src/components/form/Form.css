@@ -1,7 +1,7 @@
 #form{
     display: flex;
-    position: absolute;
-    top: 60%;
+    position: relative;
+    top: 50%;
     left: 40%;
     font-family:'Times New Roman', Times, serif;
    
