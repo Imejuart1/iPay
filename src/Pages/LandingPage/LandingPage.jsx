@@ -1,7 +1,7 @@
 import React from 'react'
-import Timer from '../../Components/Timer/Timer'
-import Form from '../../Components/form/form'
-import Footer from '../../Components/footer/Footer'
+import Timer from '../../components/Timer/Timer'
+import Form from '../../components/form/form'
+import Footer from '../../components/footer/Footer'
 import './LandingPage.css'
 
 const LandingPage = () => {
